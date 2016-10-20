@@ -4,6 +4,8 @@
 
 class Node
    attr_accessor :value, :next_node
+   # when make linked list it has to have value and next in line
+  # by default node is putting to nil 
 
    def initialize(val,next_in_line=nil)
        @value = val

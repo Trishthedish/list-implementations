@@ -5,3 +5,5 @@ Then we will also take a look at linked-list.rb and see how the _implementation_
 
 # Assignment
 Do your best to write `include?` and `size` in `linked-list.rb`, modeling after `display`. If you are feeling ambitious, write `max` as well.
+
+display code as size. If you get one you csn get them all
